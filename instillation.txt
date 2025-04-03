@@ -1,0 +1,60 @@
+████████╗███████╗██████╗ ███╗   ███╗██╗   ██╗██╗  ██╗
+╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║   ██║██║ ██╔╝
+   ██║   █████╗  ██████╔╝██╔████╔██║██║   ██║█████╔╝
+   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║   ██║██╔═██╗
+   ██║   ███████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██║  ██╗
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+
+## 🚀 **How to Run the Script in Termux** 🚀  
+
+💾 **Step 1: Save the script as a file**  
+Open Termux and create a file named `performance_booster.sh`:  
+
+```bash👇👇👇
+nano Termux-Boost-Performance-V6.sh
+```
+
+✍️ **Step 2: Paste the Script**  
+Paste the full script inside the editor, then press:  
+✅ `Ctrl + X` → **Exit**  
+✅ `Y` → **Confirm Save**  
+✅ `Enter` → **Save & Close**  
+
+🔓 **Step 3: Grant Execution Permission**  
+Run this command to make the script executable:  
+
+```bash👇👇👇
+chmod +x Termux-Boost-Performance-V6.sh
+```
+
+🚀 **Step 4: Execute the Script**  
+Run the script with:  
+
+```bash👇👇👇
+./Termux-Boost-Performance-V6.sh
+```
+
+---
+
+### ⚠ **Important Notes** ⚠  
+🔥 **Root Access Required**  
+Your device **must be rooted** since this script includes commands that require superuser privileges.  
+
+🔧 **If Your Device is Not Rooted**  
+- **Root your device first** before running the script.  
+- Use **Magisk** or any suitable rooting method for your device model.  
+
+🛠 **Run with Superuser (Root) Access**  
+If needed, execute the script with root privileges:  
+
+```bash👇👇👇
+su -c ./Termux-Boost-Performance-V6.sh
+```
+
+---
+
+### 📌 **Need More Info?**  
+For more details on rooting, check online resources or official documentation for tools like **Magisk**.  
+
+Enjoy optimizing your device! 🚀🔥
+
